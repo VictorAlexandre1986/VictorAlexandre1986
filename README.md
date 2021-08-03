@@ -22,11 +22,13 @@
  <div style="display: inline_block"><br>
      <img align="center" alt="Victor-Bootstrap" height="30" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
      <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+     <img align="center" alt="Victor-Pandas" height="30" width="90" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+     <img align="center" alt="Victor-Numpy" height="30" width="90" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+     <img align="center" alt="Victor-Ploty" height="30" width="90" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+     <img align="center" alt="Victor-FastApi" height="30" width="90" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+     <img align="center" alt="Victor-Flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+     <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+     <img align="center" alt="Victor-QT" height="30" width="100" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> 
  </div>
  
  ##
@@ -42,6 +44,15 @@
   <img align="center" alt="Victor-Mongo" height="30" width="100" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white">
   
   
+ </div>
+ 
+ ##
+ 
+   ### Ferramentas
+ <div style="display: inline_block"><br>
+     <img align="center" alt="Victor-Docker" height="30" width="80" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+     <img align="center" alt="Victor-Git" height="30" width="100" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
  </div>
  
  ##
