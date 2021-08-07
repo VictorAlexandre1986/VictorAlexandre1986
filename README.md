@@ -8,7 +8,7 @@
 </div>
   
  
- ### language
+ ### Language
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" height="30" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
