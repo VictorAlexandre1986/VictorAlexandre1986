@@ -45,7 +45,7 @@
  
  ##
  
-   ### Ferramentas
+   ### Tools
  <div style="display: inline_block"><br>
      <img align="center" alt="Victor-Docker" height="30" width="80" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
      <img align="center" alt="Victor-Git" height="30" width="70" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
