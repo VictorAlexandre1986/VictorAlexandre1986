@@ -10,7 +10,7 @@
  ### Language
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Html5" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Victor-C#" height="30" width="100" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Victor-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
   
