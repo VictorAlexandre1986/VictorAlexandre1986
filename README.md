@@ -23,7 +23,7 @@
      <img align="center" alt="Victor-Opencv" height="30" width="90" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
      <img align="center" alt="Victor-numpy" height="30" width="90" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
      <img align="center" alt="Victor-pandas" height="30" width="90" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+     <img align="center" alt="Victor-Vue.js" height="30" width="90" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
      <img align="center" alt="Victor-.Net" height="30" width="90" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   
  </div>
