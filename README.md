@@ -11,15 +11,14 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Victor-javascript" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Victor-javascript" height="30" width="120" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
   
   ##
  
  ### Frameworks
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-node" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-     <img align="center" alt="Victor-vue" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+     <img align="center" alt="Victor-vue" height="30" width="100" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
  </div>
  
  ##
@@ -27,7 +26,6 @@
   ### Database
  <div style="display: inline_block"><br>
      <img align="center" alt="Victor-PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-     <img align="center" alt="Victor-PostgreSQL" height="30" width="90" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white">
      <img align="center" alt="Victor-PostgreSQL" height="30" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  </div>
  
