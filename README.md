@@ -21,9 +21,6 @@
  
  ### Frameworks
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-Numpy" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-     <img align="center" alt="Victor-Padas" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-     <img align="center" alt="Victor-Ploty" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
      <img align="center" alt="Victor-Net" height="30" width="80" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
      <img align="center" alt="Victor-Opencv" height="30" width="100" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
      <img align="center" alt="Victor-Net" height="30" width="80" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
