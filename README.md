@@ -12,19 +12,24 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Victor-Typescript" height="30" width="130" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Victor-Javascript" height="30" width="130" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Victor-Python" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Victor-Python" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Victor-Python" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Victor-Python" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
   
   ##
  
  ### Frameworks
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-Net" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-     <img align="center" alt="Victor-Net" height="30" width="100" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-     <img align="center" alt="Victor-Net" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+     <img align="center" alt="Victor-Numpy" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+     <img align="center" alt="Victor-Padas" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+     <img align="center" alt="Victor-Ploty" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+     <img align="center" alt="Victor-Net" height="30" width="80" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+     <img align="center" alt="Victor-Opencv" height="30" width="100" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+     <img align="center" alt="Victor-Net" height="30" width="80" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+     <img align="center" alt="Victor-Laravel" height="30" width="100" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+     <img align="center" alt="Victor-Flask" height="30" width="80" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+     <img align="center" alt="Victor-Flask" height="30" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  </div>
  
  ##
@@ -32,15 +37,16 @@
   ### Database
  <div style="display: inline_block"><br>
      <img align="center" alt="Victor-PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-     <img align="center" alt="Victor-PostgreSQL" height="30" width="90" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+     <img align="center" alt="Victor-Mongo" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+     <img align="center" alt="Victor-Neo4J" height="30" width="90" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white">
  </div>
  
  ##
  
    ### Tools
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-Docker" height="30" width="80" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-     <img align="center" alt="Victor-Git" height="30" width="70" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+     <img align="center" alt="Victor-Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+     <img align="center" alt="Victor-Git" height="30" width="80" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
  </div>
  
