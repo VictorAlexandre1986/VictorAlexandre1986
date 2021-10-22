@@ -26,6 +26,7 @@
      <img align="center" alt="Victor-Opencv" height="30" width="100" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
      <img align="center" alt="Victor-Node" height="30" width="80" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
      <img align="center" alt="Victor-Django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+     <img align="center" alt="Victor-Django" height="30" width="90" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
  </div>
  
  ##
