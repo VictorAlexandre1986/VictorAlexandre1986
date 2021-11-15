@@ -13,8 +13,7 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-
- 
+  <img align="center" alt="Victor-C#" height="30" width="100" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
   
   ##
@@ -26,9 +25,10 @@
      <img align="center" alt="Victor-FastAPI" height="30" width="100" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
      <img align="center" alt="Victor-Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
      <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-     <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-     <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-     <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+     <img align="center" alt="Victor-Pandas" height="30" width="100" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+     <img align="center" alt="Victor-Numpy" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+     <img align="center" alt="Victor-Ploty" height="30" width="100" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+     <img align="center" alt="Victor-.NET" height="30" width="70" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
  </div>
  
  ##
