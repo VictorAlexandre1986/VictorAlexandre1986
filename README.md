@@ -53,7 +53,7 @@
      <img align="center" alt="Victor-Git" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
  </div>
  
- 
+
  ##
  
  ### Contact
