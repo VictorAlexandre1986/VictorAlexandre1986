@@ -26,9 +26,9 @@
      <img align="center" alt="Victor-Opencv" height="30" width="100" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
      <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
      <img align="center" alt="Victor-B" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-     <img align="center" alt="Victor-Express" height="30" width="100" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-     <img align="center" alt="Victor-Nod" height="30" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-     
+     <img align="center" alt="Victor-Flask" height="30" width="100" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+     <img align="center" alt="Victor-Django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+     <img align="center" alt="Victor-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
  </div>
  
