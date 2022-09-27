@@ -23,9 +23,7 @@
  
  ### Frameworks
  <div style="display: inline_block"><br>
-    <img align="center" alt="Victor-flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img align="center" alt="Victor-Django" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-      
+    <img align="center" alt="Victor-flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">    
  </div>
  
  ##
