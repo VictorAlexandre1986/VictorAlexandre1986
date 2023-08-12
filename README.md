@@ -11,7 +11,7 @@
  ### Language 
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Victor-Python" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Victor-CSS" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Victor-Javascript" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
   
@@ -22,7 +22,10 @@
  ### Frameworks
  <div style="display: inline_block"><br>
     <img align="center" alt="Victor-flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
-    <img align="center" alt="Victor-Django" height="30" width="110" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"> 
+    <img align="center" alt="Victor-Django" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
+  
+            
+        
     <img align="center" alt="Victor-FastAPI" height="30" width="100" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">     
     <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
     <img align="center" alt="Victor-Numpy" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
