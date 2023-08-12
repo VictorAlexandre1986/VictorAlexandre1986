@@ -24,8 +24,7 @@
  ### Frameworks
  <div style="display: inline_block"><br>
     <img align="center" alt="Victor-flask"  src="icons8-flask-96.png"> 
-    <img align="center" alt="Victor-Django" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">  
-    <img align="center" alt="Victor-FastAPI" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg">    
+    <img align="center" alt="Victor-Django" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">     
     <img align="center" alt="Victor-Selenium" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
     <img align="center" alt="Victor-Numpy" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">          
     <img align="center" alt="Victor-Pandas" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
