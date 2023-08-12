@@ -21,11 +21,8 @@
  
  ### Frameworks
  <div style="display: inline_block"><br>
-    <img align="center" alt="Victor-flask" height="30" width="90" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
-    <img align="center" alt="Victor-Django" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
-  
-            
-        
+    <img align="center" alt="Victor-flask" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">      
+    <img align="center" alt="Victor-Django" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">       
     <img align="center" alt="Victor-FastAPI" height="30" width="100" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">     
     <img align="center" alt="Victor-Selenium" height="30" width="100" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
     <img align="center" alt="Victor-Numpy" height="30" width="100" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
@@ -47,7 +44,7 @@
  
    ### Tools
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-Docker" height="30" width="100" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+     <img align="center" alt="Victor-Docker" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
      <img align="center" alt="Victor-Git" height="30" width="80" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
  </div>
