@@ -30,15 +30,7 @@
     <img align="center" alt="Victor-Pandas" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
     <img align="center" alt="Victor-QT" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">  
     <img align="center" alt="Victor-Vue" src="vue.png.png">
-    <img align="center" alt="Victor-OpenCV" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">  
-    <img align="center" alt="Victor-Node" src="node.png">
-
-            
-
-    
-            
-          
-     
+    <img align="center" alt="Victor-OpenCV" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">      
  </div>
  
  ##
