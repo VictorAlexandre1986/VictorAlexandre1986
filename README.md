@@ -32,9 +32,12 @@
     <img align="center" alt="Victor-React" src="react.png">
     <img align="center" alt="Victor-Node" src="node.png">
     <img align="center" alt="Victor-OpenCV" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"> 
-    <img align="center" alt="Victor-OpenCV" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+    <img align="center" alt="Victor-Nest.js" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+    
   
             
+            
+          
           
  </div>
  
