@@ -26,7 +26,7 @@
  ### Frameworks
  <div style="display: inline_block"><br>
     <img align="center" alt="Victor-flask"  src="icons8-flask-96.png"> 
-    <img align="center" alt="Victor-Django" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">     
+    <img align="center" alt="Victor-Node" height="60" width="200" src="node.png">     
     <img align="center" alt="Victor-Selenium" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">        
     <img align="center" alt="Victor-Pandas" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
     <img align="center" alt="Victor-QT" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">  
