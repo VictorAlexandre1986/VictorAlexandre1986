@@ -29,7 +29,7 @@
     <img align="center" alt="Victor-flask"  src="icons8-flask-96.png">
     <img align="center" alt="Victor-Selenium" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">        
     <img align="center" alt="Victor-Pandas" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
-    <img align="center" alt="Victor-QT" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">  
+    <img align="center" alt="Victor-QT" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"><br>  
     <img align="center" alt="Victor-Django" src="django.png">
     <img align="center" alt="Victor-Net" src="dot_net.png">
     <img align="center" alt="Victor-OpenCV" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">    
