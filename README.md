@@ -79,10 +79,13 @@
  ##
  
  ### Contact
-  <div> 
+  <div style="display: block"> 
   <a href="https://victoralexandre29051986.medium.com/atalhos-úteis-para-vs-code-6530769eac5d" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+   <p></p>
   <a href = "mailto:victoralexandre29051986@gmail.com"><img src="icons8-gmail-96.png"></a>
-  <a href="https://www.linkedin.com/in/victor-alexandre-017024202/" target="_blank"><img align="center" alt="Victor-Linkedin" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> 
+   <p></p>
+  <a href="https://www.linkedin.com/in/victor-alexandre-017024202/" target="_blank"><img align="center" alt="Victor-Linkedin" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> 
+  </div>
   
           
  
