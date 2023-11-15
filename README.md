@@ -13,10 +13,14 @@
  ### Language 
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Victor-CSS" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Victor-HTML" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Victor-Javascript" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Victor-Python" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">    
+  <img align="center" alt="Victor-CSS" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Victor-HTML" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Victor-Javascript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Victor-Python" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <p></p>
+  <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+
 </div>
   
  
@@ -24,32 +28,43 @@
   ##
  
  ### Frameworks
- <div style="display: inline_block"><br>
-    <img align="center" alt="Victor-Node"  src="node.png"> 
+ <div style="display: inline_block"><br><p></p>
     <img align="center" alt="Victor-flask"  src="icons8-flask-96.png">
-    <img align="center" alt="Victor-Selenium" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">        
-    <img align="center" alt="Victor-Pandas" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
-    <img align="center" alt="Victor-QT" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"><br>  
-    <img align="center" alt="Victor-Django" src="django.png">
-    <img align="center" alt="Victor-OpenCV" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">    
+    <img align="center" alt="Victor-Selenium" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">        
+    <img align="center" alt="Victor-Pandas" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
+    <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"><br>  
+    <p></p>
+    <img align="center" alt="Victor-Django" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+    <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">   
+    <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">
+    <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <p></p>
+    <img align="center" alt="Victor-Node"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> 
+    <img align="center" alt="Victor-Node"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+    <img align="center" alt="Victor-Node"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+          
  </div>
  
  ##
  
   ### Database
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-PostgreSQL" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
-     <img align="center" alt="Victor-Mysql" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">  
-     <img align="center" alt="Victor-Mongo" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+     <img align="center" alt="Victor-PostgreSQL" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+     <img align="center" alt="Victor-Mysql" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">  
+     <img align="center" alt="Victor-Mongo" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+     <img align="center" alt="Victor-Mongo" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
+     
+
+  
  </div>
  
  ##
  
    ### Tools
  <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-Docker" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-     <img align="center" alt="Victor-Git" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">         
-      <img align="center" alt="Victor-FireBase" height="60" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+     <img align="center" alt="Victor-Docker" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+     <img align="center" alt="Victor-Git" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">         
+      <img align="center" alt="Victor-FireBase" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
  </div>
  
  ##
