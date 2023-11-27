@@ -42,7 +42,7 @@
 <!--      <img align="center" alt="Victor-Nest" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  -->
     <p></p>
     <img align="center" alt="Victor-Node"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> 
-    <img align="center" alt="Victor-Vue"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+    <img align="center" alt="Victor-Vue"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/reactjs-original-wordmark.svg">
     <img align="center" alt="Victor-FastAPI"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
           
  </div>
