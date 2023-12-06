@@ -40,7 +40,6 @@
     <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
     <p></p>
     <img align="center" alt="Victor-Angular"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-"> 
     <img align="center" alt="Victor-FastAPI"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
 <!--     <img align="center" alt="Victor-Express" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">   
     <img align="center" alt="Victor-Nest" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  -->
