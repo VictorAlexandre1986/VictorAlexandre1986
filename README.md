@@ -33,8 +33,8 @@
     <img align="center" alt="Victor-Selenium" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">        
 <!--     <img align="center" alt="Victor-Angular"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
     <img align="center" alt="Victor-Pandas" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
-    <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
-<!--     <img align="center" alt="Victor-FastAPI"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg"> -->
+<!--     <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"> -->
+    <img align="center" alt="Victor-FastAPI"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
     <p></p>
     <img align="center" alt="Victor-Django" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
     <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">   
