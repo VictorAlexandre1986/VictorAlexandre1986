@@ -44,7 +44,6 @@
     <p></p>
     <img align="center" alt="Victor-Express" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">   
     <img align="center" alt="Victor-Nest" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  
-   
  </div>
  
  ##
