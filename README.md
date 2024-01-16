@@ -44,7 +44,7 @@
     <img align="center" alt="Victor-Nest" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg">  
     <p></p>
     <img align="center" alt="Victor-Node" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-    <img align="center" alt="Victor-React"   src="icons8-unity-128.png" />
+    <img align="center" alt="Victor-React"   src="icons8-unity-64.png" />
 
     
 
