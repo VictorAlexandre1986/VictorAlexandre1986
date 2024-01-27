@@ -45,6 +45,7 @@
     <img align="center" alt="Victor-React"   src="react.png" />  
   <p></p>
         <img align="center" alt="Victor-FastAPI"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg">
+        
     
 
  </div>
