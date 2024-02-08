@@ -60,7 +60,7 @@
      <img align="center" alt="Victor-PostgreSQL" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
      <img align="center" alt="Victor-Mysql" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">  
      <img align="center" alt="Victor-Mongo" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-     <img align="center" alt="Victor-Redis" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
+     <img align="center" alt="Victor-Redis" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
      
 
   
