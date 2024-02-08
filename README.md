@@ -72,7 +72,8 @@
  <div style="display: inline_block"><br>
      <img align="center" alt="Victor-Docker" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
      <img align="center" alt="Victor-Git" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">         
-      <img align="center" alt="Victor-FireBase" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+     <img align="center" alt="Victor-FireBase" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+     <img align="center" alt="Victor-AWS" width="200" src="amazonwebservices-original-wordmark.svg">
  </div>
  
  ##
