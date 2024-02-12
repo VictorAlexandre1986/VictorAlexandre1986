@@ -80,7 +80,8 @@
  
  ### OS
   <div style="display: inline_block"><br>
-     <img align="center" alt="Victor-Windows" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">         
+     <img align="center" alt="Victor-Windows" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> 
+     <img align="center" alt="Victor-Nest" height="80" width="200" src="linux.svg"> 
  </div>
  
 
