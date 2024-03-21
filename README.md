@@ -17,8 +17,8 @@
   <img align="center" alt="Victor-Javascript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-Python" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <p></p>
-  <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
+  <img align="center" alt="Victor-CSharp" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Victor-Typescript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
 
 </div>
   
