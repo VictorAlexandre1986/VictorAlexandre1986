@@ -45,6 +45,8 @@
      <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg">   
      <img align="center" alt="Victor-FastAPI"  height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg"> 
 <!--     <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"> -->
+     <img align="center" alt="Victor-Fastfy" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain-wordmark.svg" />
+
            
   <p></p>
         
