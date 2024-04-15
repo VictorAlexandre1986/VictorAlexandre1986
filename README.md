@@ -77,7 +77,7 @@
      <img align="center" alt="Victor-Docker" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
      <img align="center" alt="Victor-Git" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">         
      <img align="center" alt="Victor-FireBase" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-     <img align="center" alt="Victor-AWS" height="80" width="200" src="amazonwebservices-original-wordmark.svg">
+<!--      <img align="center" alt="Victor-AWS" height="80" width="200" src="amazonwebservices-original-wordmark.svg"> -->
   <p></p>
      <img align="center" alt="bitbucket" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
      <img align="center" alt="Jira" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
