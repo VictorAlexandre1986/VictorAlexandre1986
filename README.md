@@ -17,7 +17,7 @@
   <img align="center" alt="Victor-Javascript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Victor-Python" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <p></p>
-<!--   <img align="center" alt="Victor-CSharp" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> -->
+  <img align="center" alt="Victor-CSharp" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Victor-Typescript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
 
 </div>
@@ -78,6 +78,8 @@
      <img align="center" alt="Victor-Git" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">         
      <img align="center" alt="Victor-FireBase" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 <!--      <img align="center" alt="Victor-AWS" height="80" width="200" src="amazonwebservices-original-wordmark.svg"> -->
+     <img align="center" height="80" width="200"align="center" alt="Vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+
   <p></p>
      <img align="center" alt="bitbucket" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
      <img align="center" alt="Jira" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
@@ -85,7 +87,6 @@
      <img align="center" alt="Pycharm" height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <p></p>
      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
-     <img align="center" height="80" width="200"align="center" alt="Vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
 
  </div>
