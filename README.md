@@ -31,7 +31,7 @@
     <img align="center" alt="Victor-flask"  src="icons8-flask-96.png">
     <img align="center" alt="Victor-Selenium" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">        
     <img align="center" alt="Victor-Pandas" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
-    <img align="center" alt="Victor-Django" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+<!--     <img align="center" alt="Victor-Django" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"> -->
     <p></p>
     <img align="center" alt="Victor-OpenCV" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">
     <img align="center" alt="Victor-Vue.js"  height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
@@ -47,8 +47,8 @@
       <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">   
       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
   <p></p>
-<!--         <img  align="center" alt="Victor-Matplotlib" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> -->
-<!--       <img align="center" alt="Victor-NumPy" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> -->    
+        <img  align="center" alt="Victor-Matplotlib" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+      <img align="center" alt="Victor-NumPy" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />    
  </div>
  
  ##
