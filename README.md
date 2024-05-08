@@ -48,13 +48,7 @@
       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
   <p></p>
 <!--         <img  align="center" alt="Victor-Matplotlib" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" /> -->
-<!--       <img align="center" alt="Victor-NumPy" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> -->
-
-
-
-
-        
-    
+<!--       <img align="center" alt="Victor-NumPy" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> -->    
  </div>
  
  ##
