@@ -46,11 +46,16 @@
 <!--         <img align="center" alt="Victor-`Express`" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> -->
 <!--      <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg">    -->
     <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
-    <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+    <img align="center" alt="Victor-Electron" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
           ">
 <!--       <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">    -->
 <!--       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  -->
   <p></p>
+     <img align="center" alt="Victor-Nuxt" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+     <img align="center" alt="Victor-Quasar" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original-wordmark.svg" />
+     <img align="center" alt="Victor-Pytorch" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+     <img align="center" alt="Victor-Pytorch" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+          
    
  </div>
  
@@ -84,6 +89,10 @@
      <img align="center" alt="Pycharm" height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <p></p>
      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
+     <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+     <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+     <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
+          
 
 
  </div>
@@ -92,7 +101,9 @@
 
 ### Ungine
   <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
+      <img align="center" alt="Victor-CSS" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
+      <img align="center" alt="Victor-CSS" height="80" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+          
   </div>        
 
  ##
