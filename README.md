@@ -44,10 +44,10 @@
       <img  align="center" alt="Victor-Matplotlib" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
       <img align="center" alt="Victor-NumPy" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> 
 <!--         <img align="center" alt="Victor-`Express`" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> -->
-     <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg">   
-    <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+     <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg"/>   
+    <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
 <!--     <img align="center" alt="Victor-Electron" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> -->
-          ">
+          
 <!--       <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">    -->
 <!--       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  -->
   <p></p>
