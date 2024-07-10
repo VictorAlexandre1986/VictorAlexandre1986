@@ -19,7 +19,7 @@
   <p></p>
   <img align="center" alt="Victor-Go" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
           
-  <img align="center" alt="Victor-Typescript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
+
 
 </div>
   
@@ -46,7 +46,6 @@
     <img align="center" alt="Victor-`Express`" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
     <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg"/>   
     <img align="center" alt="Victor-QT" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
-<!--     <img align="center" alt="Victor-Electron" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> -->
           
 <!--       <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">    -->
 <!--       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  -->
@@ -57,6 +56,7 @@
      <img align="center" alt="Victor-Pytorch" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <p></p>
      <img align="center" alt="Victor-Vue.js"  height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+     <img align="center" alt="Victor-Electron" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> 
 
    
  </div>
