@@ -62,8 +62,8 @@
   <p></p>
      <img align="center" alt="Victor-Vue.js"  height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
      <img align="center" alt="Victor-Electron" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> 
-      <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">    
-       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
+<!--       <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">    
+       <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">  -->
    
  </div>
  
