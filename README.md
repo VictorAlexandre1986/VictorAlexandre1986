@@ -19,6 +19,8 @@
   <p></p>
   <img align="center" alt="Victor-Go" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="Victor-Typescript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  
+          
           
   
          
@@ -75,9 +77,6 @@
      <img align="center" alt="Victor-Mysql" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">  
      <img align="center" alt="Victor-Mongo" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
      <img align="center" alt="Victor-Redis" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
-     
-
-  
  </div>
  
  ##
@@ -100,7 +99,7 @@
 <!--      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> -->
 <!--      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" /> -->
      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
-          
+     <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
 
 
  </div>
