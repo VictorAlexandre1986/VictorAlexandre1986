@@ -54,11 +54,11 @@
      <img align="center" alt="Victor-`Express`" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> 
      <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg"/>     -->
     <img align="center" alt="Victor-Electron" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> 
-     <img align="center" alt="Victor-Vue.js"  height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />     
+     <img align="center" alt="Victor-Vue.js"  height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+       <img align="center" alt="Victor-Nuxt" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
+     <img align="center" alt="Victor-Quasar" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original-wordmark.svg" />
 
   <p></p>
-     <img align="center" alt="Victor-Nuxt" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" />
-     <img align="center" alt="Victor-Quasar" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original-wordmark.svg" />
      <img align="center" alt="Victor-Pytorch" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
      <img align="center" alt="Victor-Pytorch" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
   <p></p>
