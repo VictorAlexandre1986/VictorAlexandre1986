@@ -55,7 +55,8 @@
      <img align="center" alt="Victor-.net" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg">    
      <img align="center" alt="Victor-net core" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <p></p>
-     <img align="center" alt="Victor-flask"  src="icons8-flask-96.png">
+     <img align="center" alt="VictorFlask" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+<!--      <img align="center" alt="Victor-flask"  src="icons8-flask-96.png"> -->
 
      
   
