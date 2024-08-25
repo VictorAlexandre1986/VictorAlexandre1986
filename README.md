@@ -91,8 +91,8 @@
      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg" />
 <!--      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> -->
 <!--      <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" /> -->
-     <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
-     <img align="center" alt="Trello" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
+     <img align="center" alt="Swagger" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
+     <img align="center" alt="RabbitMQ" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
 
 
  </div>
