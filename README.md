@@ -129,7 +129,7 @@
    <p></p>
   <a href = "mailto:victoralexandre29051986@gmail.com"><img src="icons8-gmail-96.png"></a>
    <p></p>
-  <a href="https://www.linkedin.com/in/victor-alexandre-017024202/" target="_blank"><img align="center" alt="Victor-Linkedin" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a> 
+<!--   <a href="https://www.linkedin.com/in/victor-alexandre-017024202/" target="_blank"><img align="center" alt="Victor-Linkedin" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>  -->
   </div>
   
           
