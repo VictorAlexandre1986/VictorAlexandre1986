@@ -61,7 +61,7 @@
      <img align="center" alt="Victor-Node.js" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
      <img align="center" alt="Victor-`Express`" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /> 
      <img align="center" alt="Victor-Nest" height="80" width="200" src="nestjs-line-wordmark.svg"/>     
-<!--    <img align="center" alt="Victor-React"  src="react.png" />  -->
+   <img align="center" alt="Victor-React"  src="react.png" /> 
      
   
    
