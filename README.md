@@ -5,7 +5,7 @@
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorAlexandre1986&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>-->
    <img height="400em" src="https://github-readme-stats.vercel.app/api?username=VictorAlexandre1986&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"><p></p>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAlexandre1986&hide_progress=true"><p></p>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAlexandre1986&amp;theme=radical"
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorAlexandre1986&amp;theme=radical">
   </div>
 
   
@@ -19,7 +19,7 @@
   <p></p>
   <img align="center" alt="Victor-Go" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Victor-Typescript" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<!-- <img align="center" alt="Victor-Go" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> -->
+  <img align="center" alt="Victor-Go" height="80" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
 
 </div>
